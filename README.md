@@ -50,5 +50,5 @@ How to center a DIV properly with tailwind css
 
 ## Author
 
-- Frontend Mentor - [@jaythecree8tor](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@jaythecr8or](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@jaythecree8tor](https://www.frontendmentor.io/profile/jaythecree8tor)
+- Twitter - [@jaythecr8or](https://www.twitter.com/jaythecr8or)
